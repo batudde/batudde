@@ -3,6 +3,10 @@
 👋 Hi, I’m **@batuhandede** — a passionate developer with expertise in **modular C++ architecture**, **CI/CD pipelines**, and **modern web technologies**.  
 I design scalable systems, solve complex dependency issues, and build automation workflows that make development faster and more reliable.  
 With experience at **HAVELSAN** and **Turkcell**, I bring both technical depth and a strong sense of process to every project.
+## 🌐 My Website
+
+[![batudde.github.io Preview](https://raw.githubusercontent.com/batuhandede/batuhandede/main/website-screenshot.png)](https://batudde.github.io)
+
 
 ---
 
