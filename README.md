@@ -1,4 +1,4 @@
-# 🚀 Batuhan Dede | Fullstack Developer & DevOps Enthusiast
+# Batuhan Dede | Fullstack Developer & DevOps Enthusiast 🚀 
 
 👋 Hi, I’m **@batuhandede** — a passionate developer with expertise in **modular C++ architecture**, **CI/CD pipelines**, and **modern web technologies**.  
 I design scalable systems, solve complex dependency issues, and build automation workflows that make development faster and more reliable.  
