@@ -5,7 +5,7 @@ I design scalable systems, solve complex dependency issues, and build automation
 With experience at **HAVELSAN** and **Turkcell**, I bring both technical depth and a strong sense of process to every project.
 ## 🌐 My Website
 
-[![batudde.github.io Preview](https://raw.githubusercontent.com/batuhandede/batuhandede/main/website-screenshot.png)](https://batudde.github.io)
+[![batudde.github.io Preview](https://raw.githubusercontent.com/batudde/batudde/main/website-screenshot.png)](https://batudde.github.io)
 
 
 ---
