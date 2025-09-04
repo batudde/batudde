@@ -16,7 +16,7 @@ With experience at **HAVELSAN** and **Turkcell**, I bring both technical depth a
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 | Category              | Tools & Technologies |
 |-----------------------|----------------------|
@@ -36,9 +36,7 @@ With experience at **HAVELSAN** and **Turkcell**, I bring both technical depth a
 
 ---
 
-## 🤝 Let’s Collaborate
-
-📫 I’m open to working on:
+## 🤝 📫 I’m open to working on:
 
 - Fullstack web and desktop applications  
 - CI/CD pipeline design and optimization  
