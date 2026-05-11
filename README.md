@@ -1,16 +1,11 @@
 # Batuhan Dede
 
-## About Me
-
 - **Fullstack Developer** — building both web and desktop applications  
 - **DevOps Specialist** — designing and optimizing CI/CD pipelines  
 - Experienced in **modular architecture** and dependency management  
 - Skilled in **UI/UX** development with PyQT, QML, and React  
 - Winner of **DigiEduHack 2024 Turkey** — an EU-supported international hackathon  
 
----
-
-## Skills
 
 | Category              | Tools & Technologies |
 |-----------------------|----------------------|
@@ -51,9 +46,9 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" width="40"/>
 </a>
 
-📧 [batuhandede17@gmail.com](mailto:batuhandede17@gmail.com)  
-🔗 [linkedin.com/in/batuhandede](https://www.linkedin.com/in/batuhandede/)  
-✍ [medium.com/@batuhandede17](https://medium.com/@batuhandede17)
+[batuhandede17@gmail.com](mailto:batuhandede17@gmail.com)  
+[linkedin.com/in/batuhandede](https://www.linkedin.com/in/batuhandede/)  
+[medium.com/@batuhandede17](https://medium.com/@batuhandede17)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=batuhandede&style=flat&color=blue)
 
